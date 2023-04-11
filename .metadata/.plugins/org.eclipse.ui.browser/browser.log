@@ -1,0 +1,169 @@
+
+1월 26, 2023 10:08:36.764 NEW SESSION
+1월 26, 2023 10:08:36.764 [5288:11396:0126/100836.763:ERROR:device_event_log_impl.cc(215)] [10:08:36.763] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 26, 2023 10:10:40.223 [9092:2860:0126/101040.222:ERROR:device_event_log_impl.cc(215)] [10:10:40.222] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 26, 2023 10:42:11.449 [11304:8132:0126/104211.449:ERROR:device_event_log_impl.cc(215)] [10:42:11.448] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 26, 2023 10:43:04.22 [10052:4700:0126/104304.022:ERROR:device_event_log_impl.cc(215)] [10:43:04.023] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+1월 26, 2023 15:30:12.950 NEW SESSION
+1월 26, 2023 15:30:12.950 [9604:8536:0126/153012.950:ERROR:device_event_log_impl.cc(215)] [15:30:12.950] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+1월 27, 2023 09:14:37.785 NEW SESSION
+1월 27, 2023 09:14:37.785 [8764:6672:0127/091437.784:ERROR:device_event_log_impl.cc(215)] [09:14:37.784] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 27, 2023 12:19:59.849 [2664:1528:0127/121959.849:ERROR:device_event_log_impl.cc(215)] [12:19:59.849] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 27, 2023 12:27:55.453 [2664:1528:0127/122755.452:ERROR:device_event_log_impl.cc(215)] [12:27:55.452] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+1월 27, 2023 12:28:29.922 [12044:3220:0127/122829.922:ERROR:device_event_log_impl.cc(215)] [12:28:29.922] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 27, 2023 12:36:29.678 [4140:11428:0127/123629.677:ERROR:device_event_log_impl.cc(215)] [12:36:29.678] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 27, 2023 12:37:59.637 [5768:8044:0127/123759.637:ERROR:device_event_log_impl.cc(215)] [12:37:59.637] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 27, 2023 13:56:26.131 [5768:8044:0127/135626.130:ERROR:device_event_log_impl.cc(215)] [13:56:26.131] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+1월 27, 2023 14:27:16.254 [12232:6752:0127/142716.254:ERROR:device_event_log_impl.cc(215)] [14:27:16.253] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 27, 2023 14:51:34.952 [7600:9244:0127/145134.952:ERROR:device_event_log_impl.cc(215)] [14:51:34.952] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 27, 2023 15:13:00.181 [2020:8440:0127/151300.181:ERROR:device_event_log_impl.cc(215)] [15:13:00.182] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+1월 30, 2023 17:10:54.398 NEW SESSION
+1월 30, 2023 17:10:54.398 [3808:1356:0130/171054.395:ERROR:device_event_log_impl.cc(215)] [17:10:54.396] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 30, 2023 17:30:11.52 [3656:2676:0130/173011.052:ERROR:device_event_log_impl.cc(215)] [17:30:11.052] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 30, 2023 17:43:06.544 [5536:9828:0130/174306.544:ERROR:device_event_log_impl.cc(215)] [17:43:06.543] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+1월 31, 2023 10:32:00.107 NEW SESSION
+1월 31, 2023 10:32:00.107 [8272:1708:0131/103200.106:ERROR:device_event_log_impl.cc(215)] [10:32:00.106] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 31, 2023 11:03:48.733 [9392:6296:0131/110348.733:ERROR:device_event_log_impl.cc(215)] [11:03:48.733] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+1월 31, 2023 15:12:08.179 NEW SESSION
+1월 31, 2023 15:12:08.179 [7280:6516:0131/151208.178:ERROR:device_event_log_impl.cc(215)] [15:12:08.178] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 31, 2023 15:24:47.782 [264:2720:0131/152447.782:ERROR:device_event_log_impl.cc(215)] [15:24:47.782] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 31, 2023 15:29:47.77 [6560:7024:0131/152947.077:ERROR:device_event_log_impl.cc(215)] [15:29:47.077] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 31, 2023 15:32:02.960 [11916:11908:0131/153202.960:ERROR:device_event_log_impl.cc(215)] [15:32:02.960] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 31, 2023 16:52:16.119 [11916:11908:0131/165216.119:ERROR:device_event_log_impl.cc(215)] [16:52:16.118] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+
+2월 02, 2023 09:15:24.684 NEW SESSION
+2월 02, 2023 09:15:24.684 [10576:872:0202/091524.683:ERROR:device_event_log_impl.cc(215)] [09:15:24.683] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 02, 2023 09:40:25.166 [10576:872:0202/094025.166:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.079 s for activation_start 0.409904 s
+2월 02, 2023 09:40:25.272 [10576:872:0202/094025.272:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.079 s for activation_start 0.409904 s
+2월 02, 2023 09:40:25.372 [10576:872:0202/094025.371:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.079 s for activation_start 0.409904 s
+2월 02, 2023 09:40:25.481 [10576:872:0202/094025.481:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.079 s for activation_start 0.409904 s
+2월 02, 2023 09:40:25.633 [10576:872:0202/094025.633:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.079 s for activation_start 0.409904 s
+2월 02, 2023 09:40:25.948 [10576:872:0202/094025.948:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.079 s for activation_start 0.409904 s
+2월 02, 2023 09:40:27.907 [10576:872:0202/094027.907:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.079 s for activation_start 0.409904 s
+2월 02, 2023 09:40:27.935 [10576:872:0202/094027.935:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.079 s for activation_start 0.409904 s
+2월 02, 2023 09:40:27.941 [10576:872:0202/094027.941:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.079 s for activation_start 0.409904 s
+
+2월 03, 2023 10:11:43.334 NEW SESSION
+2월 03, 2023 10:11:43.334 [7032:3956:0203/101143.333:ERROR:device_event_log_impl.cc(215)] [10:11:43.332] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 03, 2023 10:41:34.877 [7032:3956:0203/104134.877:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.915 s for activation_start 0.295699 s
+2월 03, 2023 10:41:34.982 [7032:3956:0203/104134.982:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.915 s for activation_start 0.295699 s
+2월 03, 2023 10:41:35.106 [7032:3956:0203/104135.106:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.915 s for activation_start 0.295699 s
+2월 03, 2023 10:41:35.426 [7032:3956:0203/104135.426:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.915 s for activation_start 0.295699 s
+2월 03, 2023 10:41:35.656 [7032:3956:0203/104135.656:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.915 s for activation_start 0.295699 s
+2월 03, 2023 10:41:36.406 [7032:3956:0203/104136.406:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.915 s for activation_start 0.295699 s
+2월 03, 2023 10:41:36.431 [7032:3956:0203/104136.431:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.915 s for activation_start 0.295699 s
+2월 03, 2023 10:41:36.437 [7032:3956:0203/104136.436:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.915 s for activation_start 0.295699 s
+2월 03, 2023 11:14:21.364 [8300:10428:0203/111421.364:ERROR:device_event_log_impl.cc(215)] [11:14:21.365] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 03, 2023 11:16:31.688 [10820:7968:0203/111631.687:ERROR:device_event_log_impl.cc(215)] [11:16:31.688] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 03, 2023 11:16:33.448 [10820:7968:0203/111633.448:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.355 s for activation_start 0.3486 s
+2월 03, 2023 11:16:33.560 [10820:7968:0203/111633.560:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.355 s for activation_start 0.3486 s
+2월 03, 2023 11:16:33.674 [10820:7968:0203/111633.674:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.355 s for activation_start 0.3486 s
+2월 03, 2023 11:16:34.198 [10820:7968:0203/111634.198:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.355 s for activation_start 0.3486 s
+2월 03, 2023 11:16:34.775 [10820:7968:0203/111634.775:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.355 s for activation_start 0.3486 s
+2월 03, 2023 11:16:35.94 [10820:7968:0203/111635.094:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.355 s for activation_start 0.3486 s
+2월 03, 2023 11:16:35.119 [10820:7968:0203/111635.119:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.355 s for activation_start 0.3486 s
+2월 03, 2023 11:16:35.125 [10820:7968:0203/111635.125:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.355 s for activation_start 0.3486 s
+2월 03, 2023 11:19:15.271 [10820:7968:0203/111915.270:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.972 s for activation_start 0.624404 s
+2월 03, 2023 11:19:15.374 [10820:7968:0203/111915.374:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.972 s for activation_start 0.624404 s
+2월 03, 2023 11:19:15.493 [10820:7968:0203/111915.493:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.972 s for activation_start 0.624404 s
+2월 03, 2023 11:19:15.918 [10820:7968:0203/111915.918:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.972 s for activation_start 0.624404 s
+2월 03, 2023 11:19:16.66 [10820:7968:0203/111916.066:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.972 s for activation_start 0.624404 s
+2월 03, 2023 11:19:16.622 [10820:7968:0203/111916.622:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.972 s for activation_start 0.624404 s
+2월 03, 2023 11:19:16.902 [10820:7968:0203/111916.902:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.972 s for activation_start 0.624404 s
+2월 03, 2023 11:19:16.925 [10820:7968:0203/111916.925:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.972 s for activation_start 0.624404 s
+2월 03, 2023 11:19:16.931 [10820:7968:0203/111916.930:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.972 s for activation_start 0.624404 s
+2월 03, 2023 11:21:45.761 [10820:7968:0203/112145.761:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.949 s for activation_start 0.57642 s
+2월 03, 2023 11:21:45.869 [10820:7968:0203/112145.868:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.949 s for activation_start 0.57642 s
+2월 03, 2023 11:21:45.994 [10820:7968:0203/112145.993:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.949 s for activation_start 0.57642 s
+2월 03, 2023 11:21:46.494 [10820:7968:0203/112146.494:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.949 s for activation_start 0.57642 s
+2월 03, 2023 11:21:46.518 [10820:7968:0203/112146.518:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.949 s for activation_start 0.57642 s
+2월 03, 2023 11:21:46.524 [10820:7968:0203/112146.524:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.949 s for activation_start 0.57642 s
+2월 03, 2023 11:32:32.783 [6856:10876:0203/113232.783:ERROR:device_event_log_impl.cc(215)] [11:32:32.783] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 03, 2023 12:26:11.983 [6856:10876:0203/122611.983:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.952 s for activation_start 0.927714 s
+2월 03, 2023 12:26:12.87 [6856:10876:0203/122612.087:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.952 s for activation_start 0.927714 s
+2월 03, 2023 12:26:12.198 [6856:10876:0203/122612.198:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.952 s for activation_start 0.927714 s
+2월 03, 2023 12:26:12.766 [6856:10876:0203/122612.766:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.952 s for activation_start 0.927714 s
+2월 03, 2023 12:26:12.880 [6856:10876:0203/122612.879:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.952 s for activation_start 0.927714 s
+2월 03, 2023 12:26:12.911 [6856:10876:0203/122612.911:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.952 s for activation_start 0.927714 s
+2월 03, 2023 12:26:12.917 [6856:10876:0203/122612.917:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.952 s for activation_start 0.927714 s
+
+2월 06, 2023 09:21:08.572 NEW SESSION
+2월 06, 2023 09:21:08.572 [2004:12512:0206/092108.570:ERROR:device_event_log_impl.cc(215)] [09:21:08.570] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+2월 06, 2023 10:14:15.850 NEW SESSION
+2월 06, 2023 10:14:15.850 [8284:3308:0206/101415.849:ERROR:device_event_log_impl.cc(215)] [10:14:15.849] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 10:14:50.706 [8284:3308:0206/101450.706:ERROR:device_event_log_impl.cc(215)] [10:14:50.704] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+
+2월 06, 2023 10:42:01.137 NEW SESSION
+2월 06, 2023 10:42:01.137 [10592:5012:0206/104201.136:ERROR:device_event_log_impl.cc(215)] [10:42:01.136] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 10:42:03.700 [10592:5012:0206/104203.700:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.707 s for activation_start 0.419216 s
+2월 06, 2023 10:42:03.806 [10592:5012:0206/104203.806:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.707 s for activation_start 0.419216 s
+2월 06, 2023 10:42:03.910 [10592:5012:0206/104203.910:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.707 s for activation_start 0.419216 s
+2월 06, 2023 10:42:04.688 [10592:5012:0206/104204.688:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.707 s for activation_start 0.419216 s
+2월 06, 2023 10:42:05.270 [10592:5012:0206/104205.269:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.707 s for activation_start 0.419216 s
+2월 06, 2023 10:42:05.469 [10592:5012:0206/104205.469:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.707 s for activation_start 0.419216 s
+2월 06, 2023 10:42:06.63 [10592:5012:0206/104206.063:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.707 s for activation_start 0.419216 s
+2월 06, 2023 10:42:06.166 [10592:5012:0206/104206.166:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.707 s for activation_start 0.419216 s
+2월 06, 2023 10:42:06.190 [10592:5012:0206/104206.189:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.707 s for activation_start 0.419216 s
+
+2월 06, 2023 10:46:42.899 NEW SESSION
+2월 06, 2023 10:46:42.899 [1928:10772:0206/104642.898:ERROR:device_event_log_impl.cc(215)] [10:46:42.899] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 11:12:31.991 [11132:6228:0206/111231.991:ERROR:device_event_log_impl.cc(215)] [11:12:31.992] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+2월 06, 2023 11:13:21.539 NEW SESSION
+2월 06, 2023 11:13:21.539 [13160:8892:0206/111321.538:ERROR:device_event_log_impl.cc(215)] [11:13:21.538] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 11:15:17.841 [8800:6640:0206/111517.840:ERROR:device_event_log_impl.cc(215)] [11:15:17.840] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 12:21:08.142 [8800:6640:0206/122108.141:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.367 s for activation_start 0.335249 s
+2월 06, 2023 12:21:08.247 [8800:6640:0206/122108.247:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.367 s for activation_start 0.335249 s
+2월 06, 2023 12:21:08.358 [8800:6640:0206/122108.358:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.367 s for activation_start 0.335249 s
+2월 06, 2023 12:21:08.558 [8800:6640:0206/122108.558:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.367 s for activation_start 0.335249 s
+2월 06, 2023 12:21:08.910 [8800:6640:0206/122108.910:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.367 s for activation_start 0.335249 s
+2월 06, 2023 12:21:09.550 [8800:6640:0206/122109.550:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.367 s for activation_start 0.335249 s
+2월 06, 2023 12:21:09.839 [8800:6640:0206/122109.839:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.367 s for activation_start 0.335249 s
+2월 06, 2023 12:21:09.857 [8800:6640:0206/122109.857:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.367 s for activation_start 0.335249 s
+2월 06, 2023 12:21:09.863 [8800:6640:0206/122109.863:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.367 s for activation_start 0.335249 s
+2월 06, 2023 12:28:35.965 [8800:6640:0206/122835.965:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.374 s for activation_start 0.359702 s
+2월 06, 2023 12:28:36.71 [8800:6640:0206/122836.070:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.374 s for activation_start 0.359702 s
+2월 06, 2023 12:28:36.174 [8800:6640:0206/122836.174:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.374 s for activation_start 0.359702 s
+2월 06, 2023 12:28:36.733 [8800:6640:0206/122836.733:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.374 s for activation_start 0.359702 s
+2월 06, 2023 12:28:36.934 [8800:6640:0206/122836.934:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.374 s for activation_start 0.359702 s
+2월 06, 2023 12:28:37.542 [8800:6640:0206/122837.542:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.374 s for activation_start 0.359702 s
+2월 06, 2023 12:28:37.558 [8800:6640:0206/122837.557:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.374 s for activation_start 0.359702 s
+2월 06, 2023 12:28:37.564 [8800:6640:0206/122837.563:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.374 s for activation_start 0.359702 s
+2월 06, 2023 14:59:24.430 [8800:6640:0206/145924.430:ERROR:device_event_log_impl.cc(215)] [14:59:24.428] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+2월 06, 2023 15:01:48.366 [6800:3476:0206/150148.366:ERROR:device_event_log_impl.cc(215)] [15:01:48.365] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 15:06:08.118 [5332:3020:0206/150608.118:ERROR:device_event_log_impl.cc(215)] [15:06:08.118] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 15:10:03.853 [13152:9636:0206/151003.852:ERROR:device_event_log_impl.cc(215)] [15:10:03.853] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 15:11:22.628 [5068:10664:0206/151122.628:ERROR:device_event_log_impl.cc(215)] [15:11:22.628] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 15:15:12.97 [2932:8792:0206/151512.096:ERROR:device_event_log_impl.cc(215)] [15:15:12.097] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 15:20:56.141 [9412:11300:0206/152056.141:ERROR:device_event_log_impl.cc(215)] [15:20:56.142] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 15:23:17.974 [3016:5988:0206/152317.974:ERROR:device_event_log_impl.cc(215)] [15:23:17.974] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 06, 2023 16:06:22.803 [3016:5988:0206/160622.803:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.672 s for activation_start 1.00739 s
+2월 06, 2023 16:06:22.910 [3016:5988:0206/160622.910:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.672 s for activation_start 1.00739 s
+2월 06, 2023 16:06:23.22 [3016:5988:0206/160623.022:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.672 s for activation_start 1.00739 s
+2월 06, 2023 16:06:23.611 [3016:5988:0206/160623.611:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.672 s for activation_start 1.00739 s
+2월 06, 2023 16:06:23.955 [3016:5988:0206/160623.955:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.672 s for activation_start 1.00739 s
+2월 06, 2023 16:06:24.61 [3016:5988:0206/160624.061:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.672 s for activation_start 1.00739 s
+2월 06, 2023 16:06:24.67 [3016:5988:0206/160624.067:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 1.672 s for activation_start 1.00739 s
+
+2월 07, 2023 15:43:24.386 NEW SESSION
+2월 07, 2023 15:43:24.386 [10688:8892:0207/154324.385:ERROR:device_event_log_impl.cc(215)] [15:43:24.385] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+2월 07, 2023 17:10:11.662 NEW SESSION
+2월 07, 2023 17:10:11.662 [12024:11700:0207/171011.661:ERROR:device_event_log_impl.cc(215)] [17:10:11.661] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 07, 2023 17:37:12.992 [10824:7880:0207/173712.992:ERROR:device_event_log_impl.cc(215)] [17:37:12.992] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 07, 2023 17:39:46.558 [7932:1892:0207/173946.557:ERROR:device_event_log_impl.cc(215)] [17:39:46.557] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 07, 2023 17:43:24.99 [2652:11128:0207/174324.099:ERROR:device_event_log_impl.cc(215)] [17:43:24.099] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+2월 08, 2023 13:56:22.678 NEW SESSION
+2월 08, 2023 13:56:22.678 [3064:4128:0208/135622.677:ERROR:device_event_log_impl.cc(215)] [13:56:22.677] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 08, 2023 13:57:00.637 [11688:9092:0208/135700.636:ERROR:device_event_log_impl.cc(215)] [13:57:00.636] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+2월 08, 2023 14:19:52.172 [1840:1500:0208/141952.172:ERROR:device_event_log_impl.cc(215)] [14:19:52.172] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+2월 09, 2023 16:00:08.893 NEW SESSION
+2월 09, 2023 16:00:08.893 [2932:13036:0209/160008.892:ERROR:device_event_log_impl.cc(215)] [16:00:08.892] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
